@@ -1,0 +1,24 @@
+{
+  "name": "gif-search",
+  "version": "1.0.0",
+  "description": "An app that recreates the search part of the giphy site",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"hello world\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doncurt/CS1.git"
+  },
+  "author": "Donovan Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doncurt/CS1/issues"
+  },
+  "homepage": "https://github.com/Doncurt/CS1#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "giphy-api": "^1.2.7"
+  }
+}
